@@ -4,7 +4,7 @@ I'm Yu Min Huang or Eric Huang, Junior student majoring in [NTPU CE](https://www
 
 I Joined the Speech and Multimedia Signal Processing Laboratory in sophomore year ([SMSPLab](https://hackmd.io/@cychiang-ntpu/SMSPLab)).
 
-Interesting in digtial image processing and machine learning, so currently focusing on Visual Speech Recognition (VSR).
+Interested in digtial image processing and machine learning, so currently focusing on Visual Speech Recognition (VSR).
 
 Also, I am interested in investment and finance. 
 
