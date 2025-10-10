@@ -8,7 +8,7 @@ Interested in digtial image processing and machine learning, so currently focusi
 
 Also, I am interested in investment and finance. 
 
-You can learn more about me at my blog.
+You can learn more about me at my [blog](https://corngit.github.io/).
 
 ![](https://komarev.com/ghpvc/?username=Corngit&color=8e44ad&label=PROFILE+VIEWS)
 
